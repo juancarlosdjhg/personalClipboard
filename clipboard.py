@@ -2,7 +2,7 @@ import pyperclip as clipboard
 from tkinter import *
 from tkinter.ttk import *
 
-conf_file='conf/options_conf.conf'
+conf_file='personalClipboard/conf/options_conf.conf'
 my_row=0
 
 def copiar(data):
